@@ -1,0 +1,3 @@
+void readSerialOneString(String &serialReadData){
+
+}
